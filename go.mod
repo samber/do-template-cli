@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	github.com/rs/zerolog v1.34.0
 	github.com/samber/do/v2 v2.0.0
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.21.0
 )
 
